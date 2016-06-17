@@ -1,0 +1,14 @@
+layout_spectrum: 0.939231980824843
+typography_spectrum: 0.32496364903636277
+color:
+  brandStrength: 0.12803584872744977
+  lightness: 0.31237676832824945
+  saturation: 0.9341857668478042
+  rhythmicContrast: 0.2356440331786871
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: onegreenheart
