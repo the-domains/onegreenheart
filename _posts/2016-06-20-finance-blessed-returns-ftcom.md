@@ -30,8 +30,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://next.ft.com/content/1d4f3196-33bf-11e6-ad39-3fee5ffe5b5b'
 title: 'Finance: Blessed returns - FT.com'
-datePublished: '2016-06-20T04:48:54.209Z'
-dateModified: '2016-06-20T04:48:54.110Z'
+datePublished: '2016-06-20T04:48:54.435Z'
+dateModified: '2016-06-20T04:48:54.326Z'
 starred: false
 sourcePath: _posts/2016-06-20-finance-blessed-returns-ftcom.md
 inFeed: true
